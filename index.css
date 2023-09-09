@@ -47,7 +47,7 @@ h1{
     padding: 20px;
 }
 .button{
-    padding: 40px 20px;
+    padding: 20px 40px;
   
 }
 
@@ -57,7 +57,7 @@ h1{
     padding: 20px;
 }
 .imp[type="text"]{
-    padding: 5px;
+    padding: 20px 0px;
     font-size: 13px;
     background-color: rgb(208, 83, 240);
     color: aliceblue;
