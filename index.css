@@ -10,7 +10,7 @@ h1{
 }
 .card{
     margin-top:150px ;
-    background-color: rgb(171, 171, 224);
+    background-color: rgb(154, 154, 230);
     padding: 50px;
     border-radius: 30px;
     box-shadow: 14px 15px 40px -7px rgb(161, 161, 226)
@@ -36,4 +36,15 @@ h1{
 .showText{
     color: aliceblue;
     padding: 10px;
+}
+
+
+@media (max-width:768px) {
+
+
+.card{
+    margin: 150px 150px;
+}
+
+    
 }
