@@ -49,7 +49,7 @@ const checkWord = () => {
   button.innerHTML = "Start";
   typeText.value = "";
   typeText.classList.add('hidden');
-  showText.textContent = "";
+  
 }
 
 
