@@ -25,7 +25,7 @@ h1{
     display: none;  
 }
 .imp[type="text"]{
-    padding: 10px;
+    padding: 10px 0px;
     font-size: 17px;
     background-color: rgb(208, 83, 240);
     color: aliceblue;
