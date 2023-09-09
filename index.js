@@ -40,9 +40,9 @@ const checkWord = () => {
   const userGuess = typeText.value.toLowerCase(); 
 
   if (userGuess === originalWord) { // Compare with the original word
-    alert("Correct!");
+    showText.textContent="Correct!";
   } else {
-    alert("Wrong guess. Try again.");
+    showText.textContent="Wrong guess. Try again.";
   }
 
   // Reset the game
