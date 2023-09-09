@@ -6,7 +6,7 @@ let scrambledWord;
 let originalWord; 
 
 const words = [
-  "computer", "constitution", "primary", "presidential","shruti","shubham"
+  "apple","mango","orange","shubham","computer","laptop","mobile"
 ];
 
 
