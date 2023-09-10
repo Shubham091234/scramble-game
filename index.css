@@ -27,8 +27,8 @@ h1{
 .imp[type="text"]{
     padding: 10px 0px;
     font-size: 17px;
-    background-color: white;
-    color: aliceblue;
+  background-color: rgb(244, 242, 245);
+    color: black;
     outline: none;
     border: none;
     border-radius: 10px;
@@ -59,8 +59,8 @@ h1{
 .imp[type="text"]{
     padding: 15px 0px;
     font-size: 13px;
-    background-color: rgb(208, 83, 240);
-    color: aliceblue;
+  background-color: rgb(244, 242, 245);
+    color: black;
     outline: none;
     border: none;
     border-radius: 10px;
